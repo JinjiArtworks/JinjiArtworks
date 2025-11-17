@@ -6,17 +6,20 @@
 
 ### 🌟 About Me
 I'm a **Front-End Developer & UI/UX Designer** who loves creating modern, clean, and user-friendly web applications.  
-I enjoy turning ideas into intuitive digital products while focusing on usability, accessibility, and visual precision.
+I mostly work on a front-end stuff: React, Next, Typescript, Tailwind and a bit of animation using GSAP or Framer Motion.
 
 ### 🚀 What I'm Currently Working On
-Developing an **internal project for my company** to improve workflow and product development efficiency.
+Currently im developing an **internal project for my company** to improve workflow and product development efficiency.
 
 ### 🛠️ Tech I Use
-React • Next.js • Vite • Tailwind • Mantine UI • TypeScript • Zustand • TanStack Query • Axios • Zod • Figma
+Stack: React, Next.js, Tailwind, ShadCn, Mantine UI, TypeScript
+Libraries: Zustand, TanStack Query, Axios, Zod
+UI Tools: Figma
+Wrote-on-ideas: Notion
 
 ### ☕ Fun Facts About Me
-- I love sports 🏆  
-- I'm obsessed with cool animated + micro-interaction designs ✨  
+- I love sports 🏆 (to gain back my motivation)  
+- I'm obsessed with cool animated + micro-interaction designs (i mean we all do?) ✨  
 - Coffee is life — always #1 ☕  
 
 ### 🔗 Portfolio
