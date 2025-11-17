@@ -13,10 +13,10 @@ Currently im developing an **internal project for my company** to improve workfl
 ---
 
 ### Tools and Tech
-Stack: React, Next.js, Tailwind, TypeScript
+Stack: React, Next.js, Tailwind, TypeScript <br>
 Libraries: Zustand, TanStack Query, Axios, Zod, ShadCN, Mantine UI, GSAP, Framer Motion
-UI Tools: Figma
-Wrote-on-ideas: Notion
+<br> UI Tools: Figma
+<br> Wrote-on-ideas: Notion
 
 ---
 
