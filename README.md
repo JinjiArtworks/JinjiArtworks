@@ -13,14 +13,14 @@ Currently im developing an **internal project for my company** to improve workfl
 ---
 
 ### Tools and Tech
-Stack: React, Next.js, Tailwind, ShadCn, Mantine UI, TypeScript
-Libraries: Zustand, TanStack Query, Axios, Zod
+Stack: React, Next.js, Tailwind, TypeScript
+Libraries: Zustand, TanStack Query, Axios, Zod, ShadCN, Mantine UI, GSAP, Framer Motion
 UI Tools: Figma
 Wrote-on-ideas: Notion
 
 ---
 
-### Fun Facts 
+### Get-to-know me
 - I love sports 🏆 (to gain back my motivation)  
 - I'm obsessed with cool animated + micro-interaction designs (i mean we all do?) ✨  
 - Coffee is life — always #1 ☕  
