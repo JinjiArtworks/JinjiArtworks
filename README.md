@@ -1,4 +1,4 @@
-**Front-End Developer & UI/UX Designer** who loves creating modern, clean, and user-friendly web applications.  
+*Front-End Developer* 
 ---
 
 ### Tools and Tech
