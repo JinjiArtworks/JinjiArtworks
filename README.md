@@ -1,15 +1,4 @@
-<h1 align="center">
-  👋 Hi, I'm Virgi
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=Front-End+Developer;UI%2FUX+Designer;Modern+%26+Clean+Web+Experiences" />
-</h1>
-
-I'm a **Front-End Developer & UI/UX Designer** who loves creating modern, clean, and user-friendly web applications.  
-
-I mostly work on a front-end stuff: React, Next, Typescript, Tailwind and a bit of animation using GSAP or Framer Motion.
-
-Currently im developing an **internal project for my company** to improve workflow and product development efficiency.
-
+**Front-End Developer & UI/UX Designer** who loves creating modern, clean, and user-friendly web applications.  
 ---
 
 ### Tools and Tech
